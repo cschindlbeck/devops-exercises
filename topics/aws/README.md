@@ -10,7 +10,7 @@
     - [EC2](#ec2)
     - [S3](#s3)
     - [ELB](#elb)
-    - [Auto Scaling Groups] (#auto-scaling-groups)
+    - [Auto Scaling Groups](#auto-scaling-groups)
     - [VPC](#vpc)
     - [Databases](#databases)
     - [DNS](#dns)
